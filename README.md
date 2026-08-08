@@ -156,7 +156,7 @@ The model may produce incorrect predictions and should **not be used for medical
 
 **Jayesh Chaudhari**
 
-Engineering Student | IoT | AI/ML | Web Development
+Engineering Student | IoT | AI/ML
 
 ---
 
