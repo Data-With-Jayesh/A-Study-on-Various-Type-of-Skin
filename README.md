@@ -153,10 +153,10 @@ The model may produce incorrect predictions and should **not be used for medical
 **Project Type:** Engineering Academic Project
 
 ## 👨‍💻 Developer
-
+**Atharv Deshmukh**
 **Jayesh Chaudhari**
 
-Engineering Student | IoT | AI/ML
+Engineering Student | IoT | AI/ML | Data Science
 
 ---
 
